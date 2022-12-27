@@ -1,5 +1,6 @@
 # Business-Intelligence-Project
 An analytical movie box office dashboard put together for my final project in IS525 DWBI
+
 Mayur Sharma, Andrew Stranahan, and Bojun Zhang
 IS 525
 12/13/22
